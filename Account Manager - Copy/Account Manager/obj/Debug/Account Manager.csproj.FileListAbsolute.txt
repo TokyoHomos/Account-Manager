@@ -1,0 +1,21 @@
+C:\Users\hussa\source\repos\Account Manager\Account Manager\bin\Debug\Account Manager.exe.config
+C:\Users\hussa\source\repos\Account Manager\Account Manager\bin\Debug\Account Manager.exe
+C:\Users\hussa\source\repos\Account Manager\Account Manager\bin\Debug\Account Manager.pdb
+C:\Users\hussa\source\repos\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.AssemblyReference.cache
+C:\Users\hussa\source\repos\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\hussa\source\repos\Account Manager\Account Manager\obj\Debug\Account Manager.exe
+C:\Users\hussa\source\repos\Account Manager\Account Manager\obj\Debug\Account Manager.pdb
+G:\Other computers\My laptop\Visual Projects\C#\Account Manager\Account Manager\bin\Debug\Account Manager.exe.config
+G:\Other computers\My laptop\Visual Projects\C#\Account Manager\Account Manager\bin\Debug\Account Manager.exe
+G:\Other computers\My laptop\Visual Projects\C#\Account Manager\Account Manager\bin\Debug\Account Manager.pdb
+G:\Other computers\My laptop\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.AssemblyReference.cache
+G:\Other computers\My laptop\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+G:\Other computers\My laptop\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.exe
+G:\Other computers\My laptop\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.pdb
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Account Manager\Account Manager\bin\Debug\Account Manager.exe.config
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Account Manager\Account Manager\bin\Debug\Account Manager.exe
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Account Manager\Account Manager\bin\Debug\Account Manager.pdb
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.AssemblyReference.cache
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.exe
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Account Manager\Account Manager\obj\Debug\Account Manager.pdb
